@@ -1,0 +1,7 @@
+{
+  "name": "Health AI Assistant",
+  "description": "An AI-powered assistant to provide general health information, symptom insights, and medication details. This application is for informational purposes only and does not constitute medical advice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
